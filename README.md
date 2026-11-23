@@ -30,10 +30,10 @@ Cuareer goals: Security Analyst
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <a href="https://github.com/meixin27">
+    <img src="https://img.shields.io/github/followers/meixin27?label=Followers&style=social" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/meixin27?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=social&logo=github" />
   </a>
 </p>
@@ -128,7 +128,7 @@ and the problem it solves.]
 
 **Technologies:** [TECH STACK]
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/PROJECT_1)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/meixin27/PROJECT_1)
 
 </td>
 <td width="50%">
@@ -140,7 +140,7 @@ and the problem it solves.]
 
 **Technologies:** [TECH STACK]
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/PROJECT_2)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/meixin27/PROJECT_2)
 
 </td>
 </tr>
@@ -154,7 +154,7 @@ and the problem it solves.]
 
 **Technologies:** [TECH STACK]
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/PROJECT_3)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/meixin27/PROJECT_3)
 
 </td>
 <td width="50%">
@@ -165,7 +165,7 @@ and the problem it solves.]
 
 **Technologies:** [TECH STACK]
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/PROJECT_4)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/meixin27/PROJECT_4)
 
 </td>
 </tr>
@@ -180,24 +180,24 @@ and the problem it solves.]
 <!-- GitHub Profile Statistics -->
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+src="https://github-readme-stats.vercel.app/api?username=meixin27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=meixin27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
 <!-- GitHub Streak Statistics -->
 
 <img width="70%"
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+src="https://streak-stats.demolab.com?user=meixin27&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <!-- Contribution Graph -->
 
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=meixin27&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -259,7 +259,7 @@ Let's connect, collaborate, and share knowledge!
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=meixin27&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
