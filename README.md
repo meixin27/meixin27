@@ -1,13 +1,4 @@
 ## Hi there 👋
-Name: Bong Mei Xin
-
-Current studies: Bachelor degree of Computer Science (Computer Networks and Security)
-
-Skills: C++ programming, Vscode, Digital Logic
-
-
-Cuareer goals: Security Analyst 
-
 
 <!-- ===================================================== -->
 <!--                 GITHUB PROFILE README                 -->
