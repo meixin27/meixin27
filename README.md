@@ -36,7 +36,7 @@
 Hello! I'm **BONG MEI XIN**, a computer science student
 with an interest in computer networks and security.
 
-🎓 **Education:** University Technology Malaysia (UTM)
+🎓 **Education:** Universiti Teknologi Malaysia (UTM)
 
 💼 **Experience:** [YOUR PROFESSIONAL OR ACADEMIC EXPERIENCE]
 
