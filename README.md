@@ -1,8 +1,12 @@
 ## Hi there 👋
 Name: Bong Mei Xin
+
 Current studies: Bachelor degree of Computer Science (Computer Networks and Security)
+
 Skills: C++ programming, Vscode, Digital Logic
-Current goals: Cybersecurity
+
+
+Current goals: Security Analyst 
 <!--
 **meixin27/meixin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
